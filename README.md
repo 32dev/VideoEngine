@@ -5,7 +5,7 @@
 
 <h1 align="center">VideoEngine</h1>
 
-VideoEngine is a Minecraft plugin which allows you to play videos on your HUD.
+VideoEngine is a Minecraft plugin which allows you to play videos on your HUD (with audio).
 <br><br>
 **Note: This plugin can heavily impact your server's performance, especially with a large amount of players**<br>
 **This plugin was made to use for fun, it is not recommended for large or public servers**
