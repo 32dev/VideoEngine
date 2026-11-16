@@ -1,10 +1,10 @@
 name: VideoEngine
-version: '1.0'
+version: '1.2'
 main: com.github.dev34.videoengine.VideoEnginePlugin
-api-version: '1.21'
+api-version: '1.13'
 prefix: VideoEngine
-authors: [devv_]
-description: An experimental video player plugin
+authors: [32dev]
+description: A video player plugin
 commands:
   videoengine:
     description: VideoEngine command
