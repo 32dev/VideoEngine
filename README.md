@@ -14,7 +14,7 @@ If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
 
 <br><br>
 
-<img width="500" height="350" align="center" alt="plugin-gif" src="https://github.com/user-attachments/assets/08ec663c-6eaf-4bf0-a923-04e252140909" />
+<img width="600" height="350" align="center" alt="plugin-gif" src="https://github.com/user-attachments/assets/08ec663c-6eaf-4bf0-a923-04e252140909" />
 
 <br>
 
