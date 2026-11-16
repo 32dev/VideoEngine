@@ -17,7 +17,7 @@ If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
 <h2 align="center">Resources</h2>
 
 <details>
-  <summary><h3>How to create a video using the plugin (Using a video URL)</h3></summary>
+  <summary><h3>How to create a video with the plugin (Using a video URL)</h3></summary>
   
   ### Instructions:
   
@@ -28,7 +28,7 @@ If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
   5. Download the video to your client with: ``/videoengine download [player] <local OR global> <video name>``
   6. You can then play the video for yourself with ``/videoengine play <video name> [time in seconds]`` 
 </details> <details>
-  <summary><h3>How to create a video using the website (using a video file)</h3></summary>
+  <summary><h3>How to create a video with the website (using a video file)</h3></summary>
   
   ### Instructions:
   
