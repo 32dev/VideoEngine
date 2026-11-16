@@ -14,6 +14,10 @@ If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
 
 <br><br>
 
+<img width="800" height="449" alt="plugin-gif" src="https://github.com/user-attachments/assets/08ec663c-6eaf-4bf0-a923-04e252140909" />
+
+<br>
+
 <h2 align="center">Resources</h2>
 
 <details>
@@ -51,3 +55,4 @@ If you have any issues, contact me on discord: https://discord.gg/sYGhc48k6P
     
  
 </details>
+
