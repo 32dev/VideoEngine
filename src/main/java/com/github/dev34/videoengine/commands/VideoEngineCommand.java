@@ -15,7 +15,7 @@ import java.io.File;
 
 public class VideoEngineCommand implements CommandExecutor {
 
-    private static final String helpMessage = VideoEnginePlugin.colorize(
+    private static final String helpMessage = VideoEnginePlugin.colorizeHex(
             "&7---------------&8[&b&l VideoEngine &8]&7---------------\n" +
                     "&#74c7e3/videoengine create <name> <url> [-global] &8-&f Create a resource pack\n" +
                     "&#74c7e3/videoengine download [player] <local|global> <name> &8-&f Send a resource pack to a player\n" +
@@ -25,7 +25,7 @@ public class VideoEngineCommand implements CommandExecutor {
                     "&#74c7e3/videoengine setup &8-&f See setup instructions\n" +
                     "&#74c7e3/videoengine help &8-&f See this list of commands\n");
 
-    private static final String setupMessage = VideoEnginePlugin.colorize(
+    private static final String setupMessage = VideoEnginePlugin.colorizeHex(
             "&#74c7e3Setup Instructions:\n" +
                     "&f1. Create a pack with: &a/videoengine create <name> <video url> [-global]\n" +
                     "&f2. Download it with: &a/videoengine download <local|global> <name>\n" +
